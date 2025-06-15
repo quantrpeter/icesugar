@@ -15,9 +15,9 @@
 module top(input [3:0] SW, input clk, output LED_R, output LED_G, output LED_B);
    reg [25:0] counter;
 
-   assign LED_R = ~counter[23];
-   assign LED_G = ~counter[24];
-   assign LED_B = ~counter[25];
+   assign LED_R = ~counter[19];
+   assign LED_G = ~counter[20];
+   assign LED_B = ~counter[21];
 
    initial begin
       counter = 0;

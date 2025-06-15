@@ -1,0 +1,21 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Sun Jun 15 02:26:44 2025
+[*]
+[dumpfile] "/Users/peter/workspace/icesugar/src/basic/verilog/vcd/test.vcd"
+[dumpfile_mtime] "Sun Jun 15 02:26:35 2025"
+[dumpfile_size] 490
+[savefile] "/Users/peter/workspace/icesugar/src/basic/verilog/vcd/peter.gtkw"
+[timestart] 0
+[size] 2312 1042
+[pos] -1 -1
+*-10.028861 7335 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test.
+[sst_width] 255
+[signals_width] 371
+[sst_expanded] 1
+[sst_vpaned_height] 314
+@28
+test.ws_data
+[pattern_trace] 1
+[pattern_trace] 0
