@@ -63,6 +63,23 @@ gcc工具链安装请参考 [riscv-gnu-toolchain](https://pingu98.wordpress.com/
 `icesprog`是为iCESugar开发的命令行烧写工具，仓库中已经提供，依赖libusb和hidapi，若自行搭建环境需要安装依赖的库  
 `$sudo apt-get install libhidapi-dev`  
 `$sudo apt-get install libusb-1.0-0-dev`  
+
+- Arch Linux 开发环境：[AUR icesugar-git](https://aur.archlinux.org/pkgbase/icesugar-git)
+
+```bash
+# icesugar
+yay -Syu icesugar
+
+# icesugar-pro
+yay -Syu icesugar-pro
+
+# icesugar-nano
+yay -Syu icesugar-nano
+
+# icesugar-icesprog
+yay -Syu icesugar-icesprog
+```
+
 # 视频教程
 - [开源FPGA开发板-硬件介绍](https://www.bilibili.com/video/av85029350?from=search&seid=17750023774521991972)  
 - [开源FPGA开发板-开发环境搭建](https://www.bilibili.com/video/av85146557?from=search&seid=17750023774521991972)   
