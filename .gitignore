@@ -4,3 +4,4 @@
 *.json
 *.o
 *.oo
+.DS_Store
